@@ -66,6 +66,11 @@ Here are some ideas to get you started:
 
 
 
+프로젝트 중 사용한 언어<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kstar0703)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
